@@ -4,10 +4,11 @@
 
 ## Problem Statement:
 
-Markup : * Implement BitTorrent protocol based on the whitepaper published by Bram Cohen.
-         * Implement this P2P file sharing protocol from scratch with seeding and leeching in python with performance as a priority (using asynchronous library asyncio).
-         * Integrating using publicly hosted trackers for .torrent file sharing.
-         * Testing and validating file hashes in virtual environment.
+Markup : 
+* Implement BitTorrent protocol based on the whitepaper published by Bram Cohen.
+* Implement this P2P file sharing protocol from scratch with seeding and leeching in python with performance as a priority (using asynchronous library asyncio).
+* Integrating using publicly hosted trackers for .torrent file sharing.
+* Testing and validating file hashes in virtual environment.
 
 ## Motivation:
 
