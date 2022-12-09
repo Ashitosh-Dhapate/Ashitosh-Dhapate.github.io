@@ -23,4 +23,4 @@
 
 After successful deployment of our P2P client on mininet we tested for downloading speed of our client against popular client utorrent and the most used open source client qbit-torrent and we observed that results were in par with the other clients with respect to the downloading speed.The qbit-torrent turned out to be superior in our experiment. The following figure shows the above mentioned results:
 
-![alt text](https://drive.google.com/file/d/15LkHds15V0AUjdcr64pqUyOvC4dRqgLA/view?usp=share_link)
+![Results](Results_1.png)
